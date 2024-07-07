@@ -1,0 +1,6 @@
+.env
+tpqoa
+.history
+__pycache__
+*.cfg
+*.ini
